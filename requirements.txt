@@ -1,2 +1,2 @@
-python-telegram-bot==20.0a6
+python-telegram-bot==20.3
 yt-dlp
