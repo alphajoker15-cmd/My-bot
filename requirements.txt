@@ -1,3 +1,2 @@
-# List of dependencies for the bot
-flask
-requests
+python-telegram-bot==20.0a6
+yt-dlp
