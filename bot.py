@@ -1,4 +1,4 @@
-# Placeholder for a Python bot
+Python
 
 import os
 import yt_dlp
@@ -6,7 +6,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # --- Your Telegram Bot Token ---
-TOKEN = 8465552653:AAHbIVPzLmt1nLKdjGNNtKJcVPldHLDXIHI
+TOKEN = "8465552653:AAHbIVPzLmt1nLKdjGNNtKJcVPldHLDXIHI"
 
 # --- File size limits ---
 TELEGRAM_FILE_LIMIT = 50 * 1024 * 1024  # 50 MB for free Telegram accounts
